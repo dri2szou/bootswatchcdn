@@ -3560,7 +3560,7 @@ color: #ffffff;
 background-color: #3498db;
 border-color: #3498db;
 border-radius: 20%;
-    box-shadow: 5px 5px 10px #ffffff;
+    box-shadow: 5px 5px 10px red;
 }
 
 .btn-info:focus, .btn-info.focus {
