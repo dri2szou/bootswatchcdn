@@ -3559,7 +3559,8 @@ background-color: #ffffff
 color: #ffffff;
 background-color: #3498db;
 border-color: #3498db;
-border-radius: 50%;
+border-radius: 20%;
+    box-shadow: 5px 5px 10px rgba(darken(#3498db))
 }
 
 .btn-info:focus, .btn-info.focus {
